@@ -220,6 +220,10 @@ http://bax.oktv.uz:2025/channel/n65002dbf/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 #EXTINF:0 tvg-id="hlsproxy-9" tvg-logo="http://bax.oktv.uz:2025/proxy/https://iptvx.one/picons/doktor.png" tvg-rec="14" group-title="Развлекательные ",Доктор
 #EXTGRP:Развлекательные 
 http://bax.oktv.uz:2025/channel/n13599ce8/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png" catchup="shift" catchup-days="1",Залипательные ролики
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png" catchup="shift" catchup-days="1",Залипательные ролики 2
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:0 tvg-id="vf-oxota" tvg-logo="http://bax.oktv.uz:2025/proxy/https://iptvx.one/picons/vf-oxota.png" tvg-rec="14" group-title="Развлекательные ",VF Охота
 #EXTGRP:Развлекательные 
 http://bax.oktv.uz:2025/channel/n537f3267/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
@@ -1363,6 +1367,8 @@ http://bax.oktv.uz:2025/channel/n69df93fb/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/77ea720/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-277" tvg-logo="http://1lot.tv/ch/822.png" catchup="shift" catchup-days="2",Карусель
 http://bax.oktv.uz:2025/channel/n5fdd2287/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.imgur.com/DnlngRZ.png",Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/407.png" catchup="shift" catchup-days="1",Мульт
 http://bax.oktv.uz:2025/channel/64e5462f/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/0141.png" catchup="shift" catchup-days="1",Мульт HD
@@ -1397,6 +1403,8 @@ http://bax.oktv.uz:2025/channel/n6c4034bc/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/n278ae662/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-42" tvg-logo="http://1lot.tv/ch/821.png" catchup="shift" catchup-days="1",Cartoonito
 http://bax.oktv.uz:2025/channel/n3303a8f/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Детские" catchup="shift" catchup-days="1", КИНОМУЛЬТ
+http://195.191.208.5:8087/udp/239.45.1.229:8000
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-89" tvg-logo="http://1lot.tv/ch/2122.png" catchup="shift" catchup-days="1",Gulli Girl
 http://bax.oktv.uz:2025/channel/3e2d3f7c/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-506" tvg-logo="http://1lot.tv/ch/1312.png" catchup="shift" catchup-days="1",Солнце
@@ -1435,8 +1443,16 @@ http://bax.oktv.uz:2025/channel/n62d3cd49/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/n14de0118/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/6818.png" catchup="shift" catchup-days="7",Веселая Карусель HD
 http://bax.oktv.uz:2025/channel/n51fc561a/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JKKIvFpK5eXlqSG39ZWFtmBmPwAecRgTjjsMiREW921dx5X4I-FWXbvrE2JM1Rq7Ow.png" group-title="Детские",Кинозал Царевны ТВ
-http://bax.oktv.uz:2025/channel/3f4d80b7/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Детские" tvg-logo="https://images.iptv.rt.ru/images/cau8gcrir4ssllu3g9sg.jpg"  tvg-id="no_epg_mult" catchup="shift" catchup-days="1", Робозуна
+https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2MjI2OTYyOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYxNjY0ODI4LCJzZXNzaW9uX2lkIjoiMTg1YjkyM2EzNGYzODI5MWM4ODUwMjBkMTc2NTJhODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.13uCxk99nfMnk39tGRSvIfOnUtYbzrJmhH-sMZlZKG4
+#EXTINF:-1 group-title="Детские" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnilJhxZGVIqjQ6L0EcFOPSg19_xCtLZCv-w&s"  tvg-id="no_epg_mult" catchup="shift" catchup-days="1", Клуб Винкс
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2MjI2OTYyOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYxNjY0ODI4LCJzZXNzaW9uX2lkIjoiMTg1YjkyM2EzNGYzODI5MWM4ODUwMjBkMTc2NTJhODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.13uCxk99nfMnk39tGRSvIfOnUtYbzrJmhH-sMZlZKG4
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dom-semja.ru/wp-content/uploads/2023/10/y_dqs2dqbf4.jpg" tvg-id="no_epg_mult" catchup="shift" catchup-days="1",Детские песенки
+https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2MjI2OTYyOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYxNjY0ODI4LCJzZXNzaW9uX2lkIjoiMTg1YjkyM2EzNGYzODI5MWM4ODUwMjBkMTc2NTJhODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.13uCxk99nfMnk39tGRSvIfOnUtYbzrJmhH-sMZlZKG4
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://igora.ru/netcat_files/310/2282/1636194858_20_papik_pro_p_smeshariki_logotip_foto_20.png" tvg-id="Кинозал 22" catchup="shift" catchup-days="1",Смешарики
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2MjI2OTYyOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYxNjY0ODI4LCJzZXNzaW9uX2lkIjoiMTg1YjkyM2EzNGYzODI5MWM4ODUwMjBkMTc2NTJhODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.13uCxk99nfMnk39tGRSvIfOnUtYbzrJmhH-sMZlZKG4
+#EXTINF:-1 group-title="Детские" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-sovetskie-multfilmy-tv_1.jpg?itok=lJISlSZK" tvg-id="no_epg_mult" catchup="shift" catchup-days="1", Советские Мультяшки
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2MjI2OTYyOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYxNjY0ODI4LCJzZXNzaW9uX2lkIjoiMTg1YjkyM2EzNGYzODI5MWM4ODUwMjBkMTc2NTJhODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.13uCxk99nfMnk39tGRSvIfOnUtYbzrJmhH-sMZlZKG4
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100571" tvg-logo="http://1lot.tv/ch/7187.png" catchup="shift" catchup-days="1",YOSSO TV Kids
 http://bax.oktv.uz:2025/channel/4aa5dea9/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100541" tvg-logo="http://1lot.tv/ch/8757.png" catchup="shift" catchup-days="1",YOSSO TV Disney
@@ -1515,10 +1531,10 @@ http://bax.oktv.uz:2025/channel/n6f4ae81c/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/496dbb37/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8221.png" catchup="shift" catchup-days="1",Sky2000 Mult SU
 http://bax.oktv.uz:2025/channel/496dbb56/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
-#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_simpsony.png",SkyCam Симпсоны
+#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_simpsony.png" catchup="shift" catchup-days="1",SkyCam Симпсоны
 #EXTGRP:Детские
 http://bax.oktv.uz:2025/channel/66e77351/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
-#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_south_park.png",SkyCam Южный Парк
+#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_south_park.png" catchup="shift" catchup-days="1",SkyCam Южный Парк
 #EXTGRP:Детские
 http://bax.oktv.uz:2025/channel/24fcacf4/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51108" tvg-logo="http://1lot.tv/ch/8418.png" catchup="shift" catchup-days="1",Рыжий
@@ -1543,6 +1559,10 @@ http://bax.oktv.uz:2025/channel/n4da07c63/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/n77884721/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-719" tvg-logo="http://1lot.tv/ch/9408.png" catchup="shift" catchup-days="1",Пингвин Лоло
 http://bax.oktv.uz:2025/channel/n10610fa7/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" catchup="shift" catchup-days="1", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" catchup="shift" catchup-days="1", СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="LIBERTYDISNEYFHD" tvg-logo="http://1lot.tv/ch/9461.png" catchup="shift" catchup-days="1",LIBERTY Дисней FHD
 http://bax.oktv.uz:2025/channel/n2969d636/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSIMPSONYFHD" tvg-logo="http://1lot.tv/ch/9465.png" catchup="shift" catchup-days="1",LIBERTY Симпсоны FHD
@@ -2511,6 +2531,22 @@ http://bax.oktv.uz:2025/channel/n67fa29be/index.mpeg?q=7dbf99d0f6c2b6606f12f30d7
 http://bax.oktv.uz:2025/channel/n6a639757/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-55002" tvg-logo="http://1lot.tv/ch/7962.png" catchup="shift" catchup-days="1",MS Magic 4K
 http://bax.oktv.uz:2025/channel/n31ae2437/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
+#EXTINF:-1 group-title="Киномания" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png" catchup="shift" catchup-days="1", IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Киномания" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" catchup="shift" catchup-days="1", IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Киномания" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" catchup="shift" catchup-days="1", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Киномания"  tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" catchup="shift" catchup-days="1", IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Киномания" catchup="shift" catchup-days="1",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Киномания" catchup="shift" catchup-days="1",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Киномания" catchup="shift" catchup-days="1",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Киномания" catchup="shift" catchup-days="1", IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Киномания " tvg-id="goldline-brief" tvg-logo="http://1lot.tv/ch/10282.png" catchup="shift" catchup-days="1",GL Brief (Короткие истории)
 http://bax.oktv.uz:2025/channel/2d049295/index.mpeg?q=7dbf99d0f6c2b6606f12f30d728d5f7a
 #EXTINF:-1 group-title="Киномания " tvg-id="goldline-evidence" tvg-logo="http://1lot.tv/ch/10283.png" catchup="shift" catchup-days="1",GL Evidence (Улика)
